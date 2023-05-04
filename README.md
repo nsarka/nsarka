@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nsarka
-- 👀 I’m interested in GPU Architecture, Deep Learning, and HPC.
-- 🌱 I’m currently learning how transformer language models work.
+- 👀 I’m interested in GPU Architecture, HPC, and Deep Learning.
 - 📫 How to reach me: nsarka00@gmail.com
 
 <!---
