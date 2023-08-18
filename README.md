@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nsarka
-- 👀 I’m interested in GPU Architecture, HPC, and Deep Learning.
+- 👀 I’m interested in HPC, HPC middleware, high-performance interconnects, computer architecture, and deep learning.
 - 📫 How to reach me: nsarka00@gmail.com
 
 <!---
